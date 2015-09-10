@@ -7,8 +7,8 @@ Attached files :
 
 Features :
 
-# Depth2.py is a simple version of our strategy going down upto 2 levels.
-# Depth3.py is a much more advanced version going down upto 3 levels.
+Depth2.py is a simple version of our strategy going down upto 2 levels.
+Depth3.py is a much more advanced version going down upto 3 levels.
 
 P.S. : Depth3.py requires a good machine to be run upon, might harm delicate machines.
 ----------------------------------------------------------------------------------------------
@@ -73,7 +73,7 @@ Then we apply evaluation function with the above mentioned strategies on the res
 We take the expectimax*** [ average ] of the evaluation values of the opponent moves and store it in OUR's each configuration.
 Then we simply take the max out of OUR's resulting board configs based on the eval. value.
 
-***The expected value because its Stochastic because of dice configs
+The expected value because its Stochastic because of dice configs
 ----------------------------------------
 
 Depth3 < A little tough, stay calm >: 
